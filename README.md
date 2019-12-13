@@ -1,5 +1,3 @@
-(base) Deekshas-MacBook-Air:Desktop deekshanayab$ 
-
 A unique way of musical notes generation based on neural networks is put forward in this project.It works by taking existing notes or music as a raw data on which required procedure is performed in order to generate a soothing and pleasant music.
 This project proposes the procedure that can be applied to generate music efficiently using modern methods of stylizing the notes.
 
